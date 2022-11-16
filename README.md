@@ -8,3 +8,11 @@ test 2
 ## Title
 
 message
+
+<pre>
+npm install --save bannerbear
+# or
+yarn add bannerbear
+</pre>
+
+end
